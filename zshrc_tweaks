@@ -1,0 +1,2 @@
+# ~/.zshrc
+PROMPT='%F{white}%D{%d/%m/%Y} %*%f %F{green}%n@%m%f %F{cyan}%~%f %# '
